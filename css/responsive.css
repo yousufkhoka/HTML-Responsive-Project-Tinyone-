@@ -1,0 +1,43 @@
+@media (max-width: 991px) {
+		.mobile-social-icon{
+			display: -webkit-box;
+			display: -ms-flexbox;
+			display: flex;
+			-webkit-box-pack: end;
+			    -ms-flex-pack: end;
+			        justify-content: flex-end;
+		}
+		.mobile-social-icon i{
+			padding: 10px 10px;
+			display: block;
+			font-size: 20px;
+			color: #101010;
+		}
+		.social-icon{
+			display: none;
+		}
+		.box-1{
+			padding:10px 0;
+		}
+		.box-1 p{
+			font-size: 20px;
+		}
+		.features-img{
+			width: 80%;
+			margin: 0 auto;
+		}
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:767px) {
+			.submit{
+				padding-top: 20px;
+			}
+}
